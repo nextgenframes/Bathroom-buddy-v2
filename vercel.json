@@ -1,5 +1,5 @@
 {
-  "framework": "nextjs",
+  "framework": "vite",
   "cleanUrls": true,
   "trailingSlash": false
 }
